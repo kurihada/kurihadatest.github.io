@@ -1,22 +1,23 @@
+# 这个文件仅用于生成文档，配置项并不完整，可以在<https://github.com/wu-kan/wu-kan.github.io/blob/master/_config.yml>获取完整配置文档及示例！
 title: kurihada # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   某大学在读<br/>
   永远喜欢加藤惠<br/>
   ACM<br/>
-#  <a href="mailto:i@wu-kan.cn">
-#    <i class="fas fa-envelope"></i>
-#  </a>
-#  <a href="https://github.com/wu-kan">
-#    <i class="fab fa-github"></i>
-#  </a>
-#  <a href="https://codeforces.com/profile/WuK">
-#    <i class="fas fa-chart-bar"></i>
-#  </a>
-#  <a href="https://vjudge.net/user/WuK">
-#    <i class="fas fa-smile"></i>
-#  </a>
-#  <a href="https://www.zhihu.com/people/wu.kan/activities">
-#    <i class="fab fa-zhihu"></i>
+  <a href="mailto:i@wu-kan.cn">
+    <i class="fas fa-envelope"></i>
+  </a>
+  <a href="https://github.com/wu-kan">
+    <i class="fab fa-github"></i>
+  </a>
+  <a href="https://codeforces.com/profile/WuK">
+    <i class="fas fa-chart-bar"></i>
+  </a>
+  <a href="https://vjudge.net/user/WuK">
+    <i class="fas fa-smile"></i>
+  </a>
+  <a href="https://www.zhihu.com/people/wu.kan/activities">
+    <i class="fab fa-zhihu"></i>
   </a>
   <iframe
     src="https://music.163.com/#/playlist?id=2385594875&auto=0&height=32"
