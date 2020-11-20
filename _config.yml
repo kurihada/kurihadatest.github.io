@@ -625,10 +625,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
           append_to_head:
             - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
               <script>
-                var usage = "payment";    #付款         
+                var usage = "payment";
                 var wechat = "wxp://f2f0QMx-2B0fLfAkWB2lfYppCeoLoAPlJ192";
                 var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQoIHxhwIY9Z3d_QU%3D_xxx_sign&u=553402528&n=kurihada";
                 var alipay = "https://qr.alipay.com/fkx18271jivyhvo7jrij3b3";
+                var paypal = ""; // Leave paypal to blank
                 var myname = "kurihada";
                 var profile = "https://s.gravatar.com/avatar/9746cd1a76410d288de8d853ee11365d?s=320";
                 var multilingual = true;
