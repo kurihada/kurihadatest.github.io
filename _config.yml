@@ -406,6 +406,32 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     async='async'
                   ></script>
                 </div>
+              - | # 觉得我的主题好用的话，让更多的人知道它吧！
+                <div>
+                  <i class="fas fa-thumbs-up fa-fw"></i>
+                  <a href="https://jekyll-theme-WuK.wu-kan.cn">
+                    jekyll-theme-WuK
+                  </a>
+                </div>
+              - | # Copyright声明
+                <div>
+                  <i class="fas fa-copyright fa-fw"></i>
+                  2017-2020 WuK
+                </div>
+              - | # 我的备案信息，请你的网站删掉这一项。互联网非法外之地！
+                <div>
+                  <i class="fas fa-info-circle fa-fw"></i>
+                  <a href="http://beian.miit.gov.cn">
+                    粤ICP备 20024947号
+                  </a>
+                </div>
+              - | # 公安网备信息
+                <div>
+                  <img src="http://www.beian.gov.cn/img/new/gongan.png" class="fa-fw"></img>
+                  <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34070202000407">
+                    皖公网安备 34070202000407号
+                  </a>
+                </div>
             wordcount: # 全站字数统计
               enable: false # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）
               prepend: <i class="fas fa-user-edit fa-fw"></i>
@@ -604,7 +630,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var wechat = "wxp://f2f0QMx-2B0fLfAkWB2lfYppCeoLoAPlJ192";
                 var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQoIHxhwIY9Z3d_QU%3D_xxx_sign&u=553402528&n=kurihada";
                 var alipay = "https://qr.alipay.com/fkx18271jivyhvo7jrij3b3";
-                var paypal = ""; // Leave paypal to blank
+                var paypal = "https://paypal.me/wukan0621";
                 var myname = "kurihada";
                 var profile = "https://s.gravatar.com/avatar/9746cd1a76410d288de8d853ee11365d?s=320";
                 var multilingual = true;
